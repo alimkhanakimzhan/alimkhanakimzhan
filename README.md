@@ -18,7 +18,6 @@ I'm a self-taught passionate web-developer from Kazakshtan KZ
 - 💬 Ask me about anything [here](https://instagram.com/alimkh_n)
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alimkhanakimzhan&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimkhanakimzhan&layout=compact&theme=buefy&hide_border=true" /></a
 
 
 
