@@ -1,7 +1,7 @@
 <p align="center">Hi there! I'm Alimkhan.</p>
 
-<br />
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimkhanakimzhan&layout=compact&theme=buefy&hide_border=true" /></a> </p>
+<br/>
+
 
 
 
@@ -31,8 +31,7 @@ I'm a self-taught passionate web-developer from Kazakshtan KZ
 <a href="https://github.com/alimkhanakimzhan/certs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimkhanakimzhan&repo=online-examination&theme=buefy" />
 </a>
-
-
 <br />
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimkhanakimzhan&layout=compact&theme=buefy&hide_border=true" /></a> </p>
 <br />
 <p align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=watermelon" alt="Jokes Card" align="center"/></p>
