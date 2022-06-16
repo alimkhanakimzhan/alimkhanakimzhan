@@ -2,6 +2,8 @@
 
 <br />
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 I'm a self-taught passionate web-developer from Kazakshtan KZ
 
 **About me**
