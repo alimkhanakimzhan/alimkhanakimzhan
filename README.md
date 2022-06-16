@@ -17,17 +17,21 @@ I'm a self-taught passionate web-developer from Kazakshtan KZ
 
 - 💬 Ask me about anything [here](https://instagram.com/alimkh_n)
 
-<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alimkhanakimzhan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</p>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alimkhanakimzhan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
 #### Top Repositories
 
-<p align="center">
+
 <a href="https://github.com/alimkhanakimzhan/certs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimkhanakimzhan&repo=certs&theme=buefy" />
 </a>
-</p>
+<a href="https://github.com/alimkhanakimzhan/certs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimkhanakimzhan&repo=online-examination&theme=buefy" />
+</a>
+
 
 <br />
 <br />
