@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=watermelon" alt="Jokes Card" />
 
 I'm a self-taught passionate web-developer from Kazakshtan KZ
 
