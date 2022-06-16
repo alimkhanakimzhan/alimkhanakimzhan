@@ -24,7 +24,7 @@ I'm a self-taught passionate web-developer from Kazakshtan KZ
 
 
 <a href="https://github.com/alimkhanakimzhan/certs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimkhanakimzhan&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 
 
