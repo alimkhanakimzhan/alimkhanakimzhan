@@ -15,7 +15,6 @@ I'm a self-taught passionate web-developer from Kazakshtan KZ
 
 - ❤️ I love coding and analyzing its holes in security.
 
-- 💬 Ask me about anything [here](https://instagram.com/alimkh_n)
 
 
 
