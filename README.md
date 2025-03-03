@@ -22,7 +22,7 @@
 <a href="https://github.com/alimkhanakimzhan/certs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimkhanakimzhan&repo=certs&theme=buefy" />
 </a>
-<a href="https://alimkhanakimzhan.github.io/cv">
+<a href="https://linkedin.com/in/alimkhan-akimzhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimkhanakimzhan&repo=cv&theme=buefy" />
 </a>
 <br />
