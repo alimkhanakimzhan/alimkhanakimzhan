@@ -4,16 +4,12 @@
 
 
 
-
-I'm a self-taught passionate web-developer from Kazakshtan KZ
-
 **About me**
 
-- 💼 Cybersecurity specialist at State Technical Service, Nur-Sultan
 
 - 📈 Several stunks on developing projects
 
-- ❤️ I love coding and analyzing its holes in security.
+- ❤️ I love developing and analyzing
 
 
 
